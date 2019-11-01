@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393668331713",
+    "firebase_url": "https://itsolutoindatabase.firebaseio.com",
+    "project_id": "itsolutoindatabase",
+    "storage_bucket": "itsolutoindatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393668331713:android:c018ddce8614ba80",
+        "android_client_info": {
+          "package_name": "com.example.itsloution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393668331713-nu2t4erifdl5pv2rk737tav6ojmuq0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1Mx2zWqCAbOoMGkte_jhAC4g9C0MV0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393668331713-nu2t4erifdl5pv2rk737tav6ojmuq0d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
